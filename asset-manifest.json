@@ -1,0 +1,38 @@
+{
+  "files": {
+    "static/js/0.adc4a208.chunk.js": "/dex/static/js/0.adc4a208.chunk.js",
+    "static/js/0.adc4a208.chunk.js.map": "/dex/static/js/0.adc4a208.chunk.js.map",
+    "main.css": "/dex/static/css/main.3fccb740.chunk.css",
+    "main.js": "/dex/static/js/main.d29de5fb.chunk.js",
+    "main.js.map": "/dex/static/js/main.d29de5fb.chunk.js.map",
+    "runtime-main.js": "/dex/static/js/runtime-main.91ae4258.js",
+    "runtime-main.js.map": "/dex/static/js/runtime-main.91ae4258.js.map",
+    "static/css/3.cbfbdfce.chunk.css": "/dex/static/css/3.cbfbdfce.chunk.css",
+    "static/js/3.574796aa.chunk.js": "/dex/static/js/3.574796aa.chunk.js",
+    "static/js/3.574796aa.chunk.js.map": "/dex/static/js/3.574796aa.chunk.js.map",
+    "static/js/4.aa5ef24b.chunk.js": "/dex/static/js/4.aa5ef24b.chunk.js",
+    "static/js/4.aa5ef24b.chunk.js.map": "/dex/static/js/4.aa5ef24b.chunk.js.map",
+    "static/js/5.b5ab54b6.chunk.js": "/dex/static/js/5.b5ab54b6.chunk.js",
+    "static/js/5.b5ab54b6.chunk.js.map": "/dex/static/js/5.b5ab54b6.chunk.js.map",
+    "static/js/6.80918b4a.chunk.js": "/dex/static/js/6.80918b4a.chunk.js",
+    "static/js/6.80918b4a.chunk.js.map": "/dex/static/js/6.80918b4a.chunk.js.map",
+    "static/js/7.d77046b7.chunk.js": "/dex/static/js/7.d77046b7.chunk.js",
+    "static/js/7.d77046b7.chunk.js.map": "/dex/static/js/7.d77046b7.chunk.js.map",
+    "index.html": "/dex/index.html",
+    "static/css/3.cbfbdfce.chunk.css.map": "/dex/static/css/3.cbfbdfce.chunk.css.map",
+    "static/css/main.3fccb740.chunk.css.map": "/dex/static/css/main.3fccb740.chunk.css.map",
+    "static/js/0.adc4a208.chunk.js.LICENSE.txt": "/dex/static/js/0.adc4a208.chunk.js.LICENSE.txt",
+    "static/js/3.574796aa.chunk.js.LICENSE.txt": "/dex/static/js/3.574796aa.chunk.js.LICENSE.txt",
+    "static/js/4.aa5ef24b.chunk.js.LICENSE.txt": "/dex/static/js/4.aa5ef24b.chunk.js.LICENSE.txt",
+    "static/js/5.b5ab54b6.chunk.js.LICENSE.txt": "/dex/static/js/5.b5ab54b6.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "/dex/static/media/Inter.var.9df5db38.woff2",
+    "static/media/style.css": "/dex/static/media/black-bubble.1fc1691b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91ae4258.js",
+    "static/css/3.cbfbdfce.chunk.css",
+    "static/js/3.574796aa.chunk.js",
+    "static/css/main.3fccb740.chunk.css",
+    "static/js/main.d29de5fb.chunk.js"
+  ]
+}
